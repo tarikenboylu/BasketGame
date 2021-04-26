@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 692edebfaf9b46c4da97ff72862f50a5, type: 3}
+  m_Name: BasketBall
+  m_EditorClassIdentifier: 
+  ballName: Basket Ball
+  ballColor: {r: 1, g: 0.50931674, b: 0, a: 1}
+  size: 1
+  weight: 1
+  PhscMaterial: {fileID: 13400000, guid: 879525fdfc8b32742af73d4de37f35e8, type: 2}

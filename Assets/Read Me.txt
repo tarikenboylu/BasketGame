@@ -1,0 +1,9 @@
+Yer için ayrı pota çemberi için ayrı panya için ayrı fizik materyalleri... Panyadan hızlı 
+sekmemesi gerekirken çemberden sekmesi ona göre daha fazla olmalıydı... Buna göre dizayn edildi
+Her top için ayrı fizik materyali koyuldu...
+Toplarla alakalı info ekrana konuldu...
+Uzaklığın daha iyi algılanabilmesi için düşük çözünürlüklü bir basket sahası texture ı kullanıldı.
+
+NOT : Yerden seken topun basket sayılmasını önleyecek bi satır kodu yorum haline getirdim
+Bence yerden seken topun basket sayılmasında bir sakınca yok hatta bi atış ile 2 defa basket atmak mümkün
+olabilir eğer yeterince yükseğe sekerse...
